@@ -13,6 +13,7 @@ This project performs various sampling techniques and evaluates their performanc
 
 | Sampling Technique | Logistic Regression | Random Forest | Gradient Boosting | SVM | Decision Tree |
 |---------------------|---------------------|---------------|-------------------|-----|---------------|
-| Sampling1          | 50.10              | 59.25         | 90.45            | 78.25 | 81.25        |
-| Sampling2          | 52.24              | 65.27         | 72.41            | 56.24 | 12.85        |
+| Sampling1           | 0.42                | 0.52          | 0.49              | 0.47 | 0.54         |
+| Sampling2           | 0.91                | 0.99          | 0.98              | 0.96 | 0.97
+|
 
